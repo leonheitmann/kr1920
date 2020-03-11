@@ -1,0 +1,16 @@
+/*
+
+num_elements ( List, -Number)
+
+it is true if Number unify whith
+the number of elements of list
+
+?- num_elements ([1,2,3].N).
+N=3
+
+?- num-elements ([1,2,3],3).
+yes
+
+?-num_elements (list,3).
+
+*/
